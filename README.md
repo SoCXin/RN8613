@@ -19,8 +19,9 @@
 
 #### 关键特性
 
-* 256K Flash+1K Information Block、32K SRAM
-* 持断相防窃电功能的硬件 EMU 模块
+* 32KBytes EEPROM (RN8612,100万次擦写)
+* RTC (温补)
+* UART x 6
 
 ### [资源收录](https://github.com/SoCXin/RN8613)
 
@@ -31,11 +32,11 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[RN8613](https://github.com/SoCXin/RN8613)较 RN8612有较大flash和SRAM,没有32KB EEPROM
+[RN8613](https://github.com/SoCXin/RN8613)较RN8612有更大的flash和SRAM，但没有32KB EEPROM
 
 电能计量SoC
 
 * [RN8213](https://github.com/SoCXin/RN8213)
-* [RN8613](https://github.com/SoCXin/RN8613)
+* [HT5027](https://github.com/SoCXin/HT5027)
 
 ###  [www.SoC.xin(芯)](http://www.SoC.Xin)

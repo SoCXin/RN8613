@@ -5,6 +5,7 @@
     "description":"RN Cortex M0 energy meter SoC",
     "peripheral": ["TIM","PWM"],
     "package":["LQFP100","LQFP64"],
+    "encryption": ["AES256","AES192","AES128"],
     "SRAM":32000,
     "Flash":256000,
     "Core": {
